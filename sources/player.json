@@ -1,0 +1,17 @@
+{
+    "party": {
+        "pikichoo": {
+            "nickname": "pikichoo",
+            "level": 6,
+            "stats": {
+                "HP": 52.5,
+                "Attack": 82.5,
+                "Defense": 60.0,
+                "Sp. Atk": 75.0,
+                "Sp. Def": 75.0,
+                "Speed": 135.0,
+                "Total": 480.0
+            }
+        }
+    }
+}
